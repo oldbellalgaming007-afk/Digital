@@ -1,0 +1,6 @@
+{
+  "name": "Digital Product Marketplace",
+  "description": "A comprehensive digital marketplace system with a user panel and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
